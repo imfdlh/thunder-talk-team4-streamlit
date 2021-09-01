@@ -11,7 +11,7 @@ https://team4-streamlit.herokuapp.com/
 streamlit run: your_directory/app.py
 ```
 
-# Made with joy by team 4:
+# Team 4:
 - Yudha Cipta Maulana Yusuf
 - Khanif Fauzi Pambudi
 - Fadilah Nur Imani
