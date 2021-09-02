@@ -10,3 +10,8 @@ https://team4-streamlit.herokuapp.com/
 ```
 streamlit run: your_directory/app.py
 ```
+
+# Team 4:
+- <a href="https://github.com/ycmy28">Yudha Cipta Maulana Yusuf</a>
+- <a href="https://github.com/khanifauzi">Khanif Fauzi Pambudi</a>
+- <a href="https://github.com/imfdlh">Fadilah Nur Imani</a>
